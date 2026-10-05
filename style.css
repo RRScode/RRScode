@@ -1,0 +1,36 @@
+section{
+    padding: 25px;
+    width: 100%;
+    border: solid, black, 1px;
+}
+
+#tray{
+    width: 250px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:solid, brown, 5px;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+}
+
+.die{
+    border: solid, black, 2px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+
+#caption{
+    width:500px;
+    padding:20px;
+
+}
+
+#author{
+    text-align: end;
+}
+    
